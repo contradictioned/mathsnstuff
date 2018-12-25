@@ -1,0 +1,43 @@
+!!!
+%html
+  %head
+    %title Myspace
+    :javascript
+      var elements = #{@output_string}
+  %body
+    %h1 prototyp
+    %label Latex:
+    %input#latex
+
+    %br
+
+    %label Unicode:
+    %span#unicode
+
+  :javascript
+    function doTheMatch(e) {
+      var thingy = e.target.value;
+      if(latex_index[thingy] != undefined) {
+        showThingy(latex_index[thingy])
+      }
+    }
+
+    function showThingy(thingy) {
+      unicode_output.innerHTML = thingy.unicode;
+    }
+
+    function build_index(key) {
+      var obj = {};
+      for(var i = 0; i < elements.length; i++) {
+        var element = elements[i];
+        var entry = element[key];
+        obj[entry] = element;
+      }
+      return obj;
+    }
+
+    var latex_index = build_index("latex");
+
+    var latex_input = document.getElementById("latex");
+    var unicode_output = document.getElementById("unicode");
+    latex_input.onkeyup = doTheMatch;

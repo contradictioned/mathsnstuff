@@ -1,0 +1,1047 @@
+# See http://en.wikipedia.org/wiki/Mathematical_operators_and_symbols_in_Unicode
+# See http://www.utf8-zeichentabelle.de/unicode-utf8-table.pl
+
+# U+2200–U+22FF
+-
+  latex: \subset
+  unicode: ⊂
+  codepoint: 
+-
+  latex: \subseteq
+  unicode: ⊆
+  codepoint: 
+-
+  latex: \supset
+  unicode: ⊃
+  codepoint: 
+-
+  latex: \supseteq
+  unicode: ⊇
+  codepoint: 
+
+
+# Unicode Block 22**: mathematical operators
+-
+  latex:
+  unicode: ∀
+  codepoint: 2200
+-
+  latex:
+  unicode: ∁
+  codepoint: 2201
+-
+  latex:
+  unicode: ∂
+  codepoint: 2202
+-
+  latex:
+  unicode: ∃
+  codepoint: 2203
+-
+  latex:
+  unicode: ∄
+  codepoint: 2204
+-
+  latex:
+  unicode: ∅
+  codepoint: 2205
+-
+  latex:
+  unicode: ∆
+  codepoint: 2206
+-
+  latex: 
+  unicode: ∇
+  codepoint: 2207
+-
+  latex:
+  unicode: ∈
+  codepoint: 2208
+-
+  latex:
+  unicode: ∉
+  codepoint: 2209
+-
+  latex:
+  unicode: ∊
+  codepoint: 220A
+-
+  latex:
+  unicode: ∋
+  codepoint: 220B
+-
+  latex:
+  unicode: ∌
+  codepoint: 220C
+-
+  latex:
+  unicode: ∍
+  codepoint: 220D
+-
+  latex:
+  unicode: ∎
+  codepoint: 220E
+-
+  latex:
+  unicode: ∏
+  codepoint: 220F
+-
+  latex:
+  unicode: ∐
+  codepoint: 2210
+-
+  latex:
+  unicode: ∑
+  codepoint: 2211
+-
+  latex:
+  unicode: −
+  codepoint: 2212
+-
+  latex:
+  unicode: ∓
+  codepoint: 2213
+-
+  latex:
+  unicode: ∔
+  codepoint: 2214
+-
+  latex:
+  unicode: ∕
+  codepoint: 2215
+-
+  latex:
+  unicode: ∖
+  codepoint: 2216
+-
+  latex: 
+  unicode: ∗
+  codepoint: 2217
+-
+  latex:
+  unicode: ∘
+  codepoint: 2218
+-
+  latex:
+  unicode: ∙
+  codepoint: 2219
+-
+  latex:
+  unicode: √
+  codepoint: 221A
+-
+  latex:
+  unicode: ∛
+  codepoint: 221B
+-
+  latex:
+  unicode: 
+  codepoint: 221C
+-
+  latex:
+  unicode: 
+  codepoint: 221D
+-
+  latex:
+  unicode: 
+  codepoint: 221E
+-
+  latex:
+  unicode: 
+  codepoint: 221F
+-
+  latex:
+  unicode: 
+  codepoint: 2220
+-
+  latex:
+  unicode: 
+  codepoint: 2221
+-
+  latex:
+  unicode: 
+  codepoint: 2222
+-
+  latex:
+  unicode: 
+  codepoint: 2223
+-
+  latex:
+  unicode: 
+  codepoint: 2224
+-
+  latex:
+  unicode: 
+  codepoint: 2225
+-
+  latex:
+  unicode: 
+  codepoint: 2226
+-
+  latex: 
+  unicode: 
+  codepoint: 2227
+-
+  latex:
+  unicode: 
+  codepoint: 2228
+-
+  latex:
+  unicode: 
+  codepoint: 2229
+-
+  latex:
+  unicode: 
+  codepoint: 222A
+-
+  latex:
+  unicode: 
+  codepoint: 222B
+-
+  latex:
+  unicode: 
+  codepoint: 222C
+-
+  latex:
+  unicode: 
+  codepoint: 222D
+-
+  latex:
+  unicode: 
+  codepoint: 222E
+-
+  latex:
+  unicode: 
+  codepoint: 222F
+-
+  latex:
+  unicode: 
+  codepoint: 2230
+-
+  latex:
+  unicode: 
+  codepoint: 2231
+-
+  latex:
+  unicode: 
+  codepoint: 2232
+-
+  latex:
+  unicode: 
+  codepoint: 2233
+-
+  latex:
+  unicode: 
+  codepoint: 2234
+-
+  latex:
+  unicode: 
+  codepoint: 2235
+-
+  latex:
+  unicode: 
+  codepoint: 2236
+-
+  latex: 
+  unicode: 
+  codepoint: 2237
+-
+  latex:
+  unicode: 
+  codepoint: 2238
+-
+  latex:
+  unicode: 
+  codepoint: 2239
+-
+  latex:
+  unicode: 
+  codepoint: 223A
+-
+  latex:
+  unicode: 
+  codepoint: 223B
+-
+  latex:
+  unicode: 
+  codepoint: 223C
+-
+  latex:
+  unicode: 
+  codepoint: 223D
+-
+  latex:
+  unicode: 
+  codepoint: 223E
+-
+  latex:
+  unicode: 
+  codepoint: 223F
+-
+  latex:
+  unicode: 
+  codepoint: 2240
+-
+  latex:
+  unicode: 
+  codepoint: 2241
+-
+  latex:
+  unicode: 
+  codepoint: 2242
+-
+  latex:
+  unicode: 
+  codepoint: 2243
+-
+  latex:
+  unicode: 
+  codepoint: 2244
+-
+  latex:
+  unicode: 
+  codepoint: 2245
+-
+  latex:
+  unicode: 
+  codepoint: 2246
+-
+  latex: 
+  unicode: 
+  codepoint: 2247
+-
+  latex:
+  unicode: 
+  codepoint: 2248
+-
+  latex:
+  unicode: 
+  codepoint: 2249
+-
+  latex:
+  unicode: 
+  codepoint: 224A
+-
+  latex:
+  unicode: 
+  codepoint: 224B
+-
+  latex:
+  unicode: 
+  codepoint: 224C
+-
+  latex:
+  unicode: 
+  codepoint: 224D
+-
+  latex:
+  unicode: 
+  codepoint: 224E
+-
+  latex:
+  unicode: 
+  codepoint: 224F
+-
+  latex:
+  unicode: 
+  codepoint: 2250
+-
+  latex:
+  unicode: 
+  codepoint: 2251
+-
+  latex:
+  unicode: 
+  codepoint: 2252
+-
+  latex:
+  unicode: 
+  codepoint: 2253
+-
+  latex:
+  unicode: 
+  codepoint: 2254
+-
+  latex:
+  unicode: 
+  codepoint: 2255
+-
+  latex:
+  unicode: 
+  codepoint: 2256
+-
+  latex: 
+  unicode: 
+  codepoint: 2257
+-
+  latex:
+  unicode: 
+  codepoint: 2258
+-
+  latex:
+  unicode: 
+  codepoint: 2259
+-
+  latex:
+  unicode: 
+  codepoint: 225A
+-
+  latex:
+  unicode: 
+  codepoint: 225B
+-
+  latex:
+  unicode: 
+  codepoint: 225C
+-
+  latex:
+  unicode: 
+  codepoint: 225D
+-
+  latex:
+  unicode: 
+  codepoint: 225E
+-
+  latex:
+  unicode: 
+  codepoint: 225F
+-
+  latex:
+  unicode: 
+  codepoint: 2260
+-
+  latex:
+  unicode: 
+  codepoint: 2261
+-
+  latex:
+  unicode: 
+  codepoint: 2262
+-
+  latex:
+  unicode: 
+  codepoint: 2263
+-
+  latex:
+  unicode: 
+  codepoint: 2264
+-
+  latex:
+  unicode: 
+  codepoint: 2265
+-
+  latex:
+  unicode: 
+  codepoint: 2266
+-
+  latex: 
+  unicode: 
+  codepoint: 2267
+-
+  latex:
+  unicode: 
+  codepoint: 2268
+-
+  latex:
+  unicode: 
+  codepoint: 2269
+-
+  latex:
+  unicode: 
+  codepoint: 226A
+-
+  latex:
+  unicode: 
+  codepoint: 226B
+-
+  latex:
+  unicode: 
+  codepoint: 226C
+-
+  latex:
+  unicode: 
+  codepoint: 226D
+-
+  latex:
+  unicode: 
+  codepoint: 226E
+-
+  latex:
+  unicode: 
+  codepoint: 226F
+-
+  latex:
+  unicode: 
+  codepoint: 2270
+-
+  latex:
+  unicode: 
+  codepoint: 2271
+-
+  latex:
+  unicode: 
+  codepoint: 2272
+-
+  latex:
+  unicode: 
+  codepoint: 2273
+-
+  latex:
+  unicode: 
+  codepoint: 2274
+-
+  latex:
+  unicode: 
+  codepoint: 2275
+-
+  latex:
+  unicode: 
+  codepoint: 2276
+-
+  latex: 
+  unicode: 
+  codepoint: 2277
+-
+  latex:
+  unicode: 
+  codepoint: 2278
+-
+  latex:
+  unicode: 
+  codepoint: 2279
+-
+  latex:
+  unicode: 
+  codepoint: 227A
+-
+  latex:
+  unicode: 
+  codepoint: 227B
+-
+  latex:
+  unicode: 
+  codepoint: 227C
+-
+  latex:
+  unicode: 
+  codepoint: 227D
+-
+  latex:
+  unicode: 
+  codepoint: 227E
+-
+  latex:
+  unicode: 
+  codepoint: 227F
+-
+  latex:
+  unicode: 
+  codepoint: 2280
+-
+  latex:
+  unicode: 
+  codepoint: 2281
+-
+  latex:
+  unicode: 
+  codepoint: 2282
+-
+  latex:
+  unicode: 
+  codepoint: 2283
+-
+  latex:
+  unicode: 
+  codepoint: 2284
+-
+  latex:
+  unicode: 
+  codepoint: 2285
+-
+  latex:
+  unicode: 
+  codepoint: 2286
+-
+  latex: 
+  unicode: 
+  codepoint: 2287
+-
+  latex:
+  unicode: 
+  codepoint: 2288
+-
+  latex:
+  unicode: 
+  codepoint: 2289
+-
+  latex:
+  unicode: 
+  codepoint: 228A
+-
+  latex:
+  unicode: 
+  codepoint: 228B
+-
+  latex:
+  unicode: 
+  codepoint: 228C
+-
+  latex:
+  unicode: 
+  codepoint: 228D
+-
+  latex:
+  unicode: 
+  codepoint: 228E
+-
+  latex:
+  unicode: 
+  codepoint: 228F
+-
+  latex:
+  unicode: 
+  codepoint: 2290
+-
+  latex:
+  unicode: 
+  codepoint: 2291
+-
+  latex:
+  unicode: 
+  codepoint: 2292
+-
+  latex:
+  unicode: 
+  codepoint: 2293
+-
+  latex:
+  unicode: 
+  codepoint: 2294
+-
+  latex:
+  unicode: 
+  codepoint: 2295
+-
+  latex:
+  unicode: 
+  codepoint: 2296
+-
+  latex: 
+  unicode: 
+  codepoint: 2297
+-
+  latex:
+  unicode: 
+  codepoint: 2298
+-
+  latex:
+  unicode: 
+  codepoint: 2299
+-
+  latex:
+  unicode: 
+  codepoint: 229A
+-
+  latex:
+  unicode: 
+  codepoint: 229B
+-
+  latex:
+  unicode: 
+  codepoint: 229C
+-
+  latex:
+  unicode: 
+  codepoint: 229D
+-
+  latex:
+  unicode: 
+  codepoint: 229E
+-
+  latex:
+  unicode: 
+  codepoint: 229F
+-
+  latex:
+  unicode: 
+  codepoint: 22A0
+-
+  latex:
+  unicode: 
+  codepoint: 22A1
+-
+  latex:
+  unicode: 
+  codepoint: 22A2
+-
+  latex:
+  unicode: 
+  codepoint: 22A3
+-
+  latex:
+  unicode: 
+  codepoint: 22A4
+-
+  latex:
+  unicode: 
+  codepoint: 22A5
+-
+  latex:
+  unicode: 
+  codepoint: 22A6
+-
+  latex: 
+  unicode: 
+  codepoint: 22A7
+-
+  latex:
+  unicode: 
+  codepoint: 22A8
+-
+  latex:
+  unicode: 
+  codepoint: 22A9
+-
+  latex:
+  unicode: 
+  codepoint: 22AA
+-
+  latex:
+  unicode: 
+  codepoint: 22AB
+-
+  latex:
+  unicode: 
+  codepoint: 22AC
+-
+  latex:
+  unicode: 
+  codepoint: 22AD
+-
+  latex:
+  unicode: 
+  codepoint: 22AE
+-
+  latex:
+  unicode: 
+  codepoint: 22AF
+-
+  latex:
+  unicode: 
+  codepoint: 22B0
+-
+  latex:
+  unicode: 
+  codepoint: 22B1
+-
+  latex:
+  unicode: 
+  codepoint: 22B2
+-
+  latex:
+  unicode: 
+  codepoint: 22B3
+-
+  latex:
+  unicode: 
+  codepoint: 22B4
+-
+  latex:
+  unicode: 
+  codepoint: 22B5
+-
+  latex:
+  unicode: 
+  codepoint: 22B6
+-
+  latex: 
+  unicode: 
+  codepoint: 22B7
+-
+  latex:
+  unicode: 
+  codepoint: 22B8
+-
+  latex:
+  unicode: 
+  codepoint: 22B9
+-
+  latex:
+  unicode: 
+  codepoint: 22BA
+-
+  latex:
+  unicode: 
+  codepoint: 22BB
+-
+  latex:
+  unicode: 
+  codepoint: 22BC
+-
+  latex:
+  unicode: 
+  codepoint: 22BD
+-
+  latex:
+  unicode: 
+  codepoint: 22BE
+-
+  latex:
+  unicode: 
+  codepoint: 22BF
+-
+  latex:
+  unicode: 
+  codepoint: 22C0
+-
+  latex:
+  unicode: 
+  codepoint: 22C1
+-
+  latex:
+  unicode: 
+  codepoint: 22C2
+-
+  latex:
+  unicode: 
+  codepoint: 22C3
+-
+  latex:
+  unicode: 
+  codepoint: 22C4
+-
+  latex:
+  unicode: 
+  codepoint: 22C5
+-
+  latex:
+  unicode: 
+  codepoint: 22C6
+-
+  latex: 
+  unicode: 
+  codepoint: 22C7
+-
+  latex:
+  unicode: 
+  codepoint: 22C8
+-
+  latex:
+  unicode: 
+  codepoint: 22C9
+-
+  latex:
+  unicode: 
+  codepoint: 22CA
+-
+  latex:
+  unicode: 
+  codepoint: 22CB
+-
+  latex:
+  unicode: 
+  codepoint: 22CC
+-
+  latex:
+  unicode: 
+  codepoint: 22CD
+-
+  latex:
+  unicode: 
+  codepoint: 22CE
+-
+  latex:
+  unicode: 
+  codepoint: 22CF
+-
+  latex:
+  unicode: 
+  codepoint: 22D0
+-
+  latex:
+  unicode: 
+  codepoint: 22D1
+-
+  latex:
+  unicode: 
+  codepoint: 22D2
+-
+  latex:
+  unicode: 
+  codepoint: 22D3
+-
+  latex:
+  unicode: 
+  codepoint: 22D4
+-
+  latex:
+  unicode: 
+  codepoint: 22D5
+-
+  latex:
+  unicode: 
+  codepoint: 22D6
+-
+  latex: 
+  unicode: 
+  codepoint: 22D7
+-
+  latex:
+  unicode: 
+  codepoint: 22D8
+-
+  latex:
+  unicode: 
+  codepoint: 22D9
+-
+  latex:
+  unicode: 
+  codepoint: 22DA
+-
+  latex:
+  unicode: 
+  codepoint: 22DB
+-
+  latex:
+  unicode: 
+  codepoint: 22DC
+-
+  latex:
+  unicode: 
+  codepoint: 22DD
+-
+  latex:
+  unicode: 
+  codepoint: 22DE
+-
+  latex:
+  unicode: 
+  codepoint: 22DF
+-
+  latex:
+  unicode: 
+  codepoint: 22E0
+-
+  latex:
+  unicode: 
+  codepoint: 22E1
+-
+  latex:
+  unicode: 
+  codepoint: 22E2
+-
+  latex:
+  unicode: 
+  codepoint: 22E3
+-
+  latex:
+  unicode: 
+  codepoint: 22E4
+-
+  latex:
+  unicode: 
+  codepoint: 22E5
+-
+  latex:
+  unicode: 
+  codepoint: 22E6
+-
+  latex: 
+  unicode: 
+  codepoint: 22E7
+-
+  latex:
+  unicode: 
+  codepoint: 22E8
+-
+  latex:
+  unicode: 
+  codepoint: 22E9
+-
+  latex:
+  unicode: 
+  codepoint: 22EA
+-
+  latex:
+  unicode: 
+  codepoint: 22EB
+-
+  latex:
+  unicode: 
+  codepoint: 22EC
+-
+  latex:
+  unicode: 
+  codepoint: 22ED
+-
+  latex:
+  unicode: 
+  codepoint: 22EE
+-
+  latex:
+  unicode: 
+  codepoint: 22EF
+-
+  latex:
+  unicode: 
+  codepoint: 22F0
+-
+  latex:
+  unicode: 
+  codepoint: 22F1
+-
+  latex:
+  unicode: 
+  codepoint: 22F2
+-
+  latex:
+  unicode: 
+  codepoint: 22F3
+-
+  latex:
+  unicode: 
+  codepoint: 22F4
+-
+  latex:
+  unicode: 
+  codepoint: 22F5
+-
+  latex:
+  unicode: 
+  codepoint: 22F6
+-
+  latex: 
+  unicode: 
+  codepoint: 22F7
+-
+  latex:
+  unicode: 
+  codepoint: 22F8
+-
+  latex:
+  unicode: 
+  codepoint: 22F9
+-
+  latex:
+  unicode: 
+  codepoint: 22FA
+-
+  latex:
+  unicode: 
+  codepoint: 22FB
+-
+  latex:
+  unicode: 
+  codepoint: 22FC
+-
+  latex:
+  unicode: 
+  codepoint: 22FD
+-
+  latex:
+  unicode: 
+  codepoint: 22FE
+-
+  latex:
+  unicode: 
+  codepoint: 22FF
